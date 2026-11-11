@@ -1,33 +1,27 @@
-# Google Colab
+# The Notebook Graveyard
 
-A collection of notebooks and scripts for working with Google Colab - Google's free cloud-based Jupyter notebook environment.
+Welcome to the **graveyard of all the notebooks I’ve summoned while chasing
+the next big idea**.
 
-## Overview
+This repository is a chaotic, curious collection of experiments, algorithms,
+machine-learning adventures, ARC solvers, half-finished sparks, and the
+occasional notebook that somehow came back to life.
 
-Google Colab allows you to write and execute Python code in your browser with:
-- Free access to GPUs and TPUs
-- Easy collaboration and sharing
-- Integration with Google Drive
-- Pre-installed ML libraries
+## What’s inside?
 
-## Getting Started
 
-1. Visit [Google Colab](https://colab.google.com)
-2. Create a new notebook or upload an existing one
-3. Write Python code in cells and run them
-4. Access GPU/TPU resources from the Runtime menu
 
-## Features
 
-- **Free Compute**: Use GPUs and TPUs at no cost
-- **Easy Sharing**: Share notebooks with collaborators
-- **Integration**: Built-in Google Drive integration
-- **Libraries**: Pre-installed TensorFlow, PyTorch, scikit-learn, and more
 
-## Usage
+- 🧪 Experiments that may become something great
+- 🧠 Algorithm and gradient-descent adventures
+- 🤖 ARC-AGI solvers and submissions
+- 📓 Notebook fossils from goals past
+- 🚀 Ideas being tested, tuned, and pushed further
 
-This repository contains example notebooks and utilities for Google Colab workflows.
+Some notebooks are polished. Some are gloriously experimental. All of them are
+part of the journey toward the goal.
 
-## License
 
-MIT
+
+> Every great project has a graveyard. This one just has better notebooks.
